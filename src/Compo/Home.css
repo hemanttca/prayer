@@ -1,0 +1,33 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.home
+{
+    width: 100%;
+}
+.home .top_banner
+{
+    max-width: 100%;
+    height: 480px;
+    background: url("http://localhost:3000/images/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* padding: 50px 60px; */
+}
+.home .top_banner .contant
+{
+    background-color: rgba(000, 000, 000, 0.4);
+    position: absolute;
+    width: 100%;
+    height: 75%;
+    background-size: cover;
+    align-content: center;
+    justify-content: center;
+   display: block;
+
+}
