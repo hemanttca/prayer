@@ -3,6 +3,8 @@ import Header from './Compo/Header'
 import Nav from './Compo/Nav'
 import { BrowserRouter } from 'react-router-dom'
 import Rout from './Compo/Rout'
+import Footer from './Compo/Footer'
+
 
 
 const App = () => {
@@ -12,6 +14,7 @@ const App = () => {
         <Header />
         <Nav />
         <Rout />
+        <Footer />
       </BrowserRouter>
 
 

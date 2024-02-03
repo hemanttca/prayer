@@ -1,0 +1,114 @@
+.about
+{
+    width: 100%;
+}
+.about .banner_box
+{
+    max-width: 100%;
+    height: 420px;
+    overflow: hidden;
+}
+.about .top_banner
+{
+    max-width: 100%;
+    height: 100%;
+    background: url("http://localhost:3000/images/about/subbanner-1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+}
+.about .top_banner .contant
+{
+    background-color: rgba(000, 000, 000, 0.4);
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+.about .top_banner .contant .contant_box
+{
+    padding-left: 120px;
+}
+.about .top_banner .contant .contant_box h5
+{
+    color: aliceblue;
+    font-weight: 600;
+}
+.about .top_banner .contant .contant_box h1
+{
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 40px;
+}
+.about .main
+{
+    padding: 100px;
+    width: 100%;
+}
+.about .main .contant_box
+{
+    padding: 0px 180px;
+}
+.about .main .contant_box h6
+{
+    text-align: center;
+    font-weight: 600;
+    color: #DE8E39;
+}
+.about .main .contant_box h1
+{
+    text-align: center;
+    font-weight: 600;
+}
+.about .main .contant_box p
+{
+    text-align: center;
+    color: #595754;
+    /* padding-left: 200px;
+    padding-right: 200px; */
+}
+.about .img_box img
+{
+    width: 28%;
+    border-radius: 30px;
+    margin: 20px;
+}
+.about .containar
+{
+    width: 100%;
+    border: 1px solid red;
+}
+.about .containar .contant_box
+{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 100px;
+}
+.about .containar .contant_box .left_box
+{
+    width: 48%;
+    text-align: right;
+    padding-left: 100px;
+}
+.about .containar .contant_box .right_box
+{
+    width: 48%;
+    text-align: left;
+    padding-right: 100px;
+}
+.about .containar .contant_box h6
+{
+    font-weight: 600;
+}
+.about .containar .contant_box h3
+{
+    font-weight: 600;
+}
+.about .containar .contant_box p
+{
+    font-size: 15px;
+}
