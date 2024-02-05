@@ -79,7 +79,6 @@
 .about .containar
 {
     width: 100%;
-    border: 1px solid red;
 }
 .about .containar .contant_box
 {
@@ -111,4 +110,63 @@
 .about .containar .contant_box p
 {
     font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 30px;
 }
+.about .blog_container
+{
+    width: 100%;
+}
+.about .blog_container .top_box
+{
+    padding-top: 50px;
+    width: 100%;
+    text-align: center;
+}
+.about .blog_container .top_box h6
+{
+    font-weight: 600;
+    color: #DE8E39;
+}
+.about .blog_container .top_box h1
+{
+    font-weight: 600;
+}
+.about .blog_container .contant_container
+{
+    padding: 50px 120px;
+    width: 100%;
+}
+.about .blog_container .contant_container .contant_box
+{
+    width: 100%;
+    display: flex;
+    padding-bottom: 20px;
+    justify-content: space-between;
+}
+.about .blog_container .contant_box .left_box
+{
+    width: 48%;
+    text-align: right;
+    display: flex;
+    align-items: center;
+}
+.about .blog_container .contant_box .right_box
+{
+    width: 48%;
+}
+.about .blog_container .contant_box .left_box h4
+{
+    font-weight: 600;
+}
+.about .blog_container .contant_box .left_box p
+{
+    color: #595754;
+    line-height: 30px;
+   
+}
+.about .blog_container .contant_box .right_box img
+{
+    width: 100%;
+}
+

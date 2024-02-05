@@ -20,8 +20,8 @@ const Navgation = () => {
                                 <NavDropdown.Item as={Link} to="/">Home</NavDropdown.Item>
                             </NavDropdown>
                             <Nav.Link className='links' as={Link} to="/about">About Us</Nav.Link>
-                            <Nav.Link className='links' as={Link}  href="#link">Service</Nav.Link>
-                            <Nav.Link className='links' as={Link} href="#link">Event</Nav.Link>
+                            <Nav.Link className='links' as={Link} to="/services">Service</Nav.Link>
+                            <Nav.Link className='links' as={Link} to="/event">Event</Nav.Link>
                             <NavDropdown className='links' title="Pages" id="basic-nav-dropdown">
                                 <NavDropdown.Item as={Link} href="#action/3.1">Action</NavDropdown.Item>
                             </NavDropdown>
