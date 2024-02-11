@@ -29,6 +29,19 @@
     color: #fff;
     margin-left: 100px;
 }
+@media screen and (min-width: 768px) {
+.header .container .contact_box .contact
+{
+    margin-right: 50px;
+    margin-left: 0px;
+}
+  }
+@media screen and (max-width: 600px) {
+    .header 
+    {
+       display: none;
+    }
+      }
 .header .container .contact_box .contact .icon
 {
     font-size: 17xpx;

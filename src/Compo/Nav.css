@@ -2,4 +2,15 @@
 .links{
     font-weight: 600;
     margin-left: 10px;
+    color: blue;
+}
+Nav.Link{
+    font-weight: 600;
+    margin-left: 10px;
+    color: blue;
+
+}
+*{
+    padding: 0;
+    margin: 0;
 }

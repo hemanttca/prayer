@@ -1,5 +1,6 @@
 import React from 'react'
 import './Event.css'
+import './Mediaq.css'
 
 const Event = () => {
     return (

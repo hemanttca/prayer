@@ -1,72 +1,40 @@
-
 .footer
 {
-    background-color: #222429;
-    padding-top: 80px;
-    padding-right: 100px;
-    padding-left: 100px;
+    padding-top: 50px;
 }
-.footer .footer_container
-{
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    padding-bottom: 100px;
+
+.footer_box h5{
+    color: #de8d38;
+    border-bottom: 3px solid #de8d38;
+    display: inline;
+    padding-bottom: 5px;
 }
-.footer .footer_container .box_1
-{
-    width: 25%;
-}
-.footer .footer_container .box_1 h5
-{
-    color: #DE8E39;   
-}
-.footer .footer_container .box_1 p
-{
-    color: #999999;  
-    font-size: 15px; 
-    margin-top: 20px;
-}
-.footer .footer_container .box_1 ul li
-{
+.footer_box p{
     color: #999999;
+}
+.footer_box ul li {
     list-style: none;
-    margin-bottom: 10px;
-}
-.footer .footer_container .box_1 .icon
-{
     color: #999999;
-    display: flex;
+    /* text-align: left; */
 }
-.footer .footer_container .box_1 .btn_box
-{
-   display: block;
-
-}
-.footer .footer_container .box_1 .btn_box input
-{
+.footer_box .btn_box input{
     width: 100%;
+    background-color: #ededed;
+    
     padding: 10px;
     border-radius: 5px;
-    margin-top: 15px;
-
-}
-.footer .footer_container .box_1 .btn_box button
-{
-    width: 100%;
-    padding: 10px;
-    border-radius: 5px;
-    margin-top: 15px;
-    background-color: #DE8E39;
     border: none;
+
 }
-.footer hr
-{
-    color: #595754;
-}
-.footer .bottom_text 
-{
-    color: #999999;
-    display: flex;
-    justify-content: center;
+.footer_box .btn_box button{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #de8d38;
+    border: none;
+    color: aliceblue;
+    font-weight: 600;
+    margin-top: 20px;
+
+
 }

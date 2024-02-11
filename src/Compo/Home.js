@@ -1,5 +1,6 @@
 import React from 'react'
 import './Home.css'
+import './Mediaq.css'
 import { Button } from "react-bootstrap"
 
 
@@ -201,19 +202,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-        <div className='main_3'>
-          <div className='con_contener'>
-
-          </div>
-          <div>
-            <div>
-
-            </div>
-            <div>
-
-            </div>
-          </div>
-        </div>
+  
       </div>
     </>
   )
