@@ -2,6 +2,16 @@
 {
     width: 100%;
 }
+@media only screen and (max-width: 768px) {
+    .about .top_banner .contant{
+        background-color: #DE8E39;
+    }
+    .about .main .contant_box
+{
+    padding: 0px 10px;
+}
+
+}
 .about .banner_box
 {
     max-width: 100%;

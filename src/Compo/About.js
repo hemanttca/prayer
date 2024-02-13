@@ -1,5 +1,7 @@
 import React from 'react'
 import './About.css'
+// import './Mediaq.css'
+
 
 const About = () => {
   return (

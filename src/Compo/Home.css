@@ -212,12 +212,7 @@
 .home .port_container
 {
     background-color: #f5f2f0;
-    padding: 100px;
-}
-.home .port_container .content
-{
-    /* padding-left: 300px;
-    padding-right: 300px; */
+    padding: 100px 20px;
 }
 .home .port_container .content h6
 {
