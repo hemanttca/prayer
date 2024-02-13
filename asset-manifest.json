@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prayer/static/css/main.76d031c5.css",
+    "main.js": "/prayer/static/js/main.13ead32b.js",
+    "static/js/787.219dec16.chunk.js": "/prayer/static/js/787.219dec16.chunk.js",
+    "index.html": "/prayer/index.html",
+    "main.76d031c5.css.map": "/prayer/static/css/main.76d031c5.css.map",
+    "main.13ead32b.js.map": "/prayer/static/js/main.13ead32b.js.map",
+    "787.219dec16.chunk.js.map": "/prayer/static/js/787.219dec16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76d031c5.css",
+    "static/js/main.13ead32b.js"
+  ]
+}
